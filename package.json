@@ -1,0 +1,23 @@
+{
+  "name": "okanban",
+  "version": "1.0.0",
+  "description": "## Description du projet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Flamel/S06E01-oKanban-API-Nicoclock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Flamel/S06E01-oKanban-API-Nicoclock/issues"
+  },
+  "homepage": "https://github.com/O-clock-Flamel/S06E01-oKanban-API-Nicoclock#readme",
+  "dependencies": {
+    "sequelize": "^6.25.3"
+  }
+}
